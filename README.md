@@ -36,7 +36,7 @@ touch project.md
 
 ### Text Sizes
 
-In that file, let's start by adding a title at the top of the page. The ` # ` character can be used to denote the size of the text on our current line. So let's start by typing ` #Project Title ` on the top line.
+In that file, let's start by adding a title at the top of the page. The ` # ` character can be used to denote the size of the text on our current line. So let's start by typing ` # Project Title ` on the top line.
 
 Using the Preview feature in VS Code, we can see what our markdown will look like! Open by clicking the icon, or by hitting ` Cmd + K V `. You can add more ` # ` to decrease the size of the text. Try it out!  
 
@@ -68,7 +68,7 @@ You can also **bold** or *italicize* items by adding 1, 2, or 3 asterisks to eac
 ***both***
 ```
 
-Let's do both to our Description heading.
+Let's make our section headings both **bold** and *italics*.
 ### Lists
 Markdown can also be used to create ordered and unordered lists.  Let's create a "Technologies" section to list all of the tech we use in our project. Throw in another ` *** ` right after our Description section and let's get to it.  Lists can be done like this:
 ```markdown
