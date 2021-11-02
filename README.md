@@ -3,7 +3,7 @@
 ![Markdown](https://justyy.com/wp-content/uploads/2016/01/markdown-syntax-language.png)
 
 ## Lesson Overview
-In this lesson, we'll practice using one of the *easiest* and *simplest* languages that you will use regularly in web development: Markdown.  Markdown is a text-to-HTML conversion tool that makes plain text easy to write and easy to read. 
+In this deliverable, we'll practice using one of the *easiest* and *simplest* languages that you will use regularly in web development: Markdown.  Markdown is a text-to-HTML conversion tool that makes plain text easy to write and easy to read. 
 
 ## Objectives
   - Review and practice common markdown syntax
@@ -13,9 +13,9 @@ In this lesson, we'll practice using one of the *easiest* and *simplest* languag
 
 ## Getting Started
   - Fork and Clone this repo
-  - Open the repo in VS Code
+  - Open the repo in VS Code with `code .`
 
-## Lesson Instructions
+## Instructions
 
 ### What is Markdown?
 Markdown is a way to style text on the web. You control the display of the document; formatting words as
@@ -27,7 +27,7 @@ It is the primary language that ReadMe files are written in.  A ReadMe file usua
 ### Creating Our Project ReadMe Template
 Markdown can be used to format text to any heading size, give them emphasis, placed into lists, add links, images, and much more.  Let's practice using markdown to set up our project ReadMe.
 
-Let's start by creating a new markdown file. Open your terminal in VS Code with ` Ctrl + ` `.
+Let's start by creating a new markdown file. Open your terminal in VS Code with <kbd>Ctrl</kbd> + <kbd>`</kbd>.
 
 Type and execute the following in the command line.
 ```markdown
@@ -38,10 +38,11 @@ touch project.md
 
 In that file, let's start by adding a title at the top of the page. The ` # ` character can be used to denote the size of the text on our current line. So let's start by typing ` # Project Title ` on the top line.
 
-Using the Preview feature in VS Code, we can see what our markdown will look like! Open by clicking the icon, or by hitting ` Cmd + K V `. You can add more ` # ` to decrease the size of the text. Try it out!  
+Using the Preview feature in VS Code, we can see what our markdown will look like! Open by clicking the icon, or by hitting <kbd>Cmd</kbd> + <kbd>K</kbd> <kbd>V</kbd>. You can add more ` # ` to decrease the size of the text. Try it out!  
 
 ### You Do (2 mins)
 Below the title, create *date* and *author* sections using different size text. Should look like this:
+<br>
 ![Title Heading](https://i.imgur.com/xqUr8re.png)
 
 ### Links
@@ -116,6 +117,9 @@ Take what you've learned, and create a final section called "Credits".  It is **
 We created a ReadMe template that we can use for all of our projects going forward in this class! The ReadMe is the advertisement for your product.  Have a beautiful ReadMe and people will expect the same quality from the project!  Feel free to change and expand on what we've built to make it your own.
 
 We learned a lot about Markdown language, but there's so much more it can do including tables, highlighting text, blockquotes, code blocks, and much much more! I encourage you to review the cheatsheet and guide below to master this skill.
+
+## Submission Guidelines
+- Pull Request must be submitted utilizing these guidelines: [PR Guidelines](https://github.com/SEI-R-11-8/template_pull_request)
 
 ## Resources
  - [Markdown Cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
