@@ -122,5 +122,5 @@ We learned a lot about Markdown language, but there's so much more it can do inc
 - Pull Request must be submitted utilizing these guidelines: [PR Guidelines](https://github.com/SEI-R-11-8/template_pull_request)
 
 ## Resources
- - [Markdown Cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+ - [Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
  - [Markdown Guide](https://ia.net/writer/support/general/markdown-guide)
