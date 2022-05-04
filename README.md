@@ -119,7 +119,7 @@ We created a ReadMe template that we can use for all of our projects going forwa
 We learned a lot about Markdown language, but there's so much more it can do including tables, highlighting text, blockquotes, code blocks, and much much more! I encourage you to review the cheatsheet and guide below to master this skill.
 
 ## Submission Guidelines
-- Pull Request must be submitted utilizing these guidelines: [PR Guidelines](https://github.com/SEI-R-11-8/template_pull_request)
+- Pull Request must be submitted utilizing these guidelines: [PR Guidelines](https://github.com/SEI-R-6-21/template_pull_request)
 
 ## Resources
  - [Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
