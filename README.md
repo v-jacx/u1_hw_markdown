@@ -38,7 +38,7 @@ touch project.md
 
 In that file, let's start by adding a title at the top of the page. The ` # ` character can be used to denote the size of the text on our current line. So let's start by typing ` # Project Title ` on the top line.
 
-Using the Preview feature in VS Code, we can see what our markdown will look like! Open by clicking the icon, or by hitting <kbd>Cmd</kbd> + <kbd>K</kbd> <kbd>V</kbd>. You can add more ` # ` to decrease the size of the text. Try it out!  
+Using the Preview feature in VS Code, we can see what our markdown will look like! Open by clicking the icon, or by hitting <kbd>cmd</kbd> + <kbd>shift</kbd> <kbd>v</kbd>. You can add more ` # ` to decrease the size of the text. Try it out!  
 
 ### You Do (2 mins)
 Below the title, create *date* and *author* sections using different size text. Should look like this:
